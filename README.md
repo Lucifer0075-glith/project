@@ -4,7 +4,7 @@
     <link rel="icon" href="tvk flag photo.jpg">
     <hr>
 </head>
-<body bgcolor="black" style="color:white">
+<body>
     <center>
         <h1>VIJAY WEBSITE 💙</h1>
     <p>It can be created by the host of (G.Nirmal)</p>
